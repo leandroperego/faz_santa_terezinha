@@ -1,0 +1,12 @@
+<header>
+            <section id="header-container" class="container80">
+                <section id="header-logo">
+                    <h1>LOGO</h1>
+                </section>
+                <nav>
+                    <section id="nav-chevron">
+                        <i id="icon-menu" class="fa fa-bars" aria-hidden="true"></i>
+                    </section>
+                </nav>
+            </section>
+        </header>
